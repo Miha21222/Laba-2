@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\LabaV2\MyForm.h(235,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(238,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(241,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(244,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(247,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(250,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(257,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(257,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\LabaV2\MyForm.h(622,61): warning C4101: e: неиспользованная локальная переменная
+C:\Users\user\source\repos\LabaV2\MyForm.h(650,61): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabaV2.vcxproj -> C:\Users\user\source\repos\LabaV2\x64\Debug\LabaV2.exe
