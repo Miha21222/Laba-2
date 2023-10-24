@@ -1,2 +1,0 @@
-C:\Users\user\source\repos\LabaV2C\x64\Debug\LabaV2C.vcxproj.AssemblyReference.cache
-C:\Users\user\source\repos\LabaV2C\x64\Debug\LabaV2C.exe
